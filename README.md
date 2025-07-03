@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Jahid Bappi 👋</h1>
 <h3 align="center">AI Engineer | Full-Stack Developer | Database Specialist</h3>
 
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/jahidbappi" width="150" style="border-radius: 50%; border: 5px solid #ff6b6b;"/>
+</div>
+
 <p align="center">
   <a href="https://github.com/jahidbappi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jahidbappi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
