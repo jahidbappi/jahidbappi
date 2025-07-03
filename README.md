@@ -5,7 +5,7 @@
   <a href="https://github.com/jahidbappi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jahidbappi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jahidbappi@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://jahidbappi.medium.com"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://jahidbappi.medium.com"><img src="https://medium.com/@jahidcric2000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
@@ -71,7 +71,6 @@
 
 - 🔍 **[C# Best Practices for Beginners](https://medium.com/@jahidbappi/csharp-tips)**  
   *Lessons from building production applications*
-
 ---
 
 ## 🎯 Currently Learning
