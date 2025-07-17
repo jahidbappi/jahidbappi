@@ -104,6 +104,15 @@
 
 ---
 
+## 📄 Research Papers
+
+| Title | Conference/Journal | Year | Link |
+|--------|-------------------|------|------|
+| **A Study on XYZ Algorithms** | IEEE International Conference on ABC | 2025 | [View Paper](https://example.com/xyz-paper) |
+| **Machine Learning for IoT Devices** | Springer Journal of IoT Research | 2024 | [View Paper](https://example.com/ml-iot-paper) |
+
+---
+
 ## 🎯 Currently Focusing On
 
 <div align="center">
