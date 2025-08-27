@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jahid Bappi 👋</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Database Specialist</h3>
+<h3 align="center">AI Engineer | Full Stack Software Developer | Database Specialist</h3>
 
 
 <p align="center">
