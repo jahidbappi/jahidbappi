@@ -69,7 +69,7 @@
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
 | [👁️ Iris](https://github.com/jahidbappi/iris) | Real-time multimodal voice + vision AI studio | Next.js, TypeScript, GPT-4o, Whisper | [Live](https://iris-puce.vercel.app) |
-| [🧩 Mosaic](https://github.com/jahidbappi/mosaic-rag) | Multimodal RAG engine with rigorous benchmark ablations | Python, Hybrid Retrieval, Eval Harness | [Code](https://github.com/jahidbappi/mosaic-rag) |
+| [🧩 Mosaic](https://github.com/jahidbappi/mosaic-rag) | Multimodal RAG engine with rigorous benchmark ablations | Python, Hybrid Retrieval, Eval Harness | [Live](https://mosaic-rag.vercel.app) |
 | [🌐 Portfolio](https://github.com/jahidbappi/portfolio) | Personal portfolio with live GitHub integration | HTML, CSS, JavaScript | [Live](https://jahidbappi.vercel.app) |
 | [🚀 VibeFlow](https://github.com/jahidbappi/VibeFlow) | Modern software selling platform | React, Node.js | [Live](https://vibe-flow.vercel.app) |
 | [🤖 code-reviewer-ai](https://github.com/jahidbappi/code-reviewer-ai) | AI-powered instant code review tool | TypeScript, AI | [Code](https://github.com/jahidbappi/code-reviewer-ai) |
