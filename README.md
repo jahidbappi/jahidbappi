@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://new-portfolio-indol-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://jahidbappi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jahidbappi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jahidcric2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://medium.com/@jahidcric2000"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -68,7 +68,7 @@
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
-| [🌐 Portfolio](https://github.com/jahidbappi/portfolio) | Personal portfolio with live GitHub integration | HTML, CSS, JavaScript | [Live](https://new-portfolio-indol-omega.vercel.app) |
+| [🌐 Portfolio](https://github.com/jahidbappi/portfolio) | Personal portfolio with live GitHub integration | HTML, CSS, JavaScript | [Live](https://jahidbappi.vercel.app) |
 | [🚀 VibeFlow](https://github.com/jahidbappi/VibeFlow) | Modern software selling platform | React, Node.js | [Live](https://vibe-flow.vercel.app) |
 | [🤖 code-reviewer-ai](https://github.com/jahidbappi/code-reviewer-ai) | AI-powered instant code review tool | TypeScript, AI | [Code](https://github.com/jahidbappi/code-reviewer-ai) |
 | [🎓 Web Technologies Project](https://github.com/jahidbappi/Web-Technologies-Project_Group-08) | Final term full-stack web project | PHP, JavaScript | [Code](https://github.com/jahidbappi/Web-Technologies-Project_Group-08) |
