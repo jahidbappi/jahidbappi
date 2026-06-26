@@ -85,10 +85,11 @@
 
 | Certification | Provider | Year | Credential |
 |--------------|----------|------|------------|
-| **Python for Everybody** | Coursera | 2024 | [🔗 View](#) |
-| **Oracle Database Expert** | Oracle Academy | 2023 | [🔗 View](#) |
 | **AWS Certified Developer** | Amazon Web Services | 2024 | [🔗 View](#) |
-| **TensorFlow Developer** | Google | 2024 | [🔗 View](#) |
+| **100 Days of Code: The Complete Python Pro Bootcamp** | Udemy | — | [🔗 View](https://www.udemy.com/course/100-days-of-code/) |
+| **CS50: Introduction to Computer Science** | Harvard University | — | [🔗 View](https://pll.harvard.edu/course/cs50-introduction-computer-science) |
+| **Master ChatGPT: Transform Your Life With AI Chatbots** | Dhruv Rathee Academy | — | [🔗 View](https://academy.dhruvrathee.com/chatgpt) |
+| **Terence Tao Teaches Mathematical Thinking** | MasterClass | — | [🔗 View](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking) |
 
 </div>
 
