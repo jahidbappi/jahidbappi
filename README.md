@@ -85,11 +85,11 @@
 
 | Certification | Provider | Year | Credential |
 |--------------|----------|------|------------|
+| **Master ChatGPT: Transform Your Life With AI Chatbots** | Dhruv Rathee Academy | 2025 | [🔗 View](https://academy.dhruvrathee.com/chatgpt) |
 | **AWS Certified Developer** | Amazon Web Services | 2024 | [🔗 View](#) |
-| **100 Days of Code: The Complete Python Pro Bootcamp** | Udemy | — | [🔗 View](https://www.udemy.com/course/100-days-of-code/) |
-| **CS50: Introduction to Computer Science** | Harvard University | — | [🔗 View](https://pll.harvard.edu/course/cs50-introduction-computer-science) |
-| **Master ChatGPT: Transform Your Life With AI Chatbots** | Dhruv Rathee Academy | — | [🔗 View](https://academy.dhruvrathee.com/chatgpt) |
-| **Terence Tao Teaches Mathematical Thinking** | MasterClass | — | [🔗 View](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking) |
+| **100 Days of Code: The Complete Python Pro Bootcamp** | Udemy | 2024 | [🔗 View](https://www.udemy.com/course/100-days-of-code/) |
+| **CS50: Introduction to Computer Science** | Harvard University | 2023 | [🔗 View](https://pll.harvard.edu/course/cs50-introduction-computer-science) |
+| **Terence Tao Teaches Mathematical Thinking** | MasterClass | 2022 | [🔗 View](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking) |
 
 </div>
 
