@@ -97,17 +97,11 @@
 
 ## ✍️ Latest Blog Posts
 
-- 📝 **[Building Scalable Database Systems](https://medium.com/@jahidbappi/database-design-patterns)**  
-  *Architecture patterns for high-performance databases*  
-  ![Views](https://img.shields.io/badge/Views-1.2k-blue)
+- 🧠 **[We Live by Stories, Not Truth — And That Changes Everything](https://medium.com/@jahidcric2000/we-live-by-stories-not-truth-and-that-changes-everything-1071b3888bf9)**  
+  *Reflections on stories, power, AI, and what it means to see reality clearly*
 
-- 🔍 **[C# Best Practices for Beginners](https://medium.com/@jahidbappi/csharp-tips)**  
-  *Lessons from building production applications*  
-  ![Views](https://img.shields.io/badge/Views-850-blue)
-
-- 🤖 **[Getting Started with PyTorch](https://medium.com/@jahidbappi/pytorch-guide)**  
-  *Practical deep learning tutorial*  
-  ![Views](https://img.shields.io/badge/Views-1.5k-blue)
+- 🌍 **[Cruel world](https://medium.com/@jahidcric2000/cruel-world-64ff001b80f7)**  
+  *The planet Earth is incredible.*
 
 ---
 
