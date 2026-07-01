@@ -1,147 +1,21 @@
-<h1 align="center">Hi, I'm Jahid Bappi 👋</h1>
-<h3 align="center">AI Engineer | Full Stack Software Developer | Database Specialist</h3>
+### Hi, I'm Jahid 👋
 
+**Obsessed learner. I just love coding.**
 
-<p align="center">
-  <a href="https://jahidbappi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jahidbappi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jahidcric2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@jahidcric2000"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://twitter.com/jahidbappi_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+AI Engineer building world-class multimodal GenAI systems.
 
----
+### Featured Projects
 
+| Project | Description |
+|---------|-------------|
+| **[Iris](https://github.com/jahidbappi/iris)** | Real-time voice + vision AI studio — ASR → LLM tool calling → image gen → TTS with production observability |
+| **[Mosaic](https://github.com/jahidbappi/mosaic-rag)** | Multimodal RAG engine with hybrid retrieval, rerankers, and reproducible benchmark ablations |
+| **[Kiln](https://github.com/jahidbappi/kiln-ml)** | ML/CV benchmark platform — 20+ models across sklearn, Keras, YOLO on Kaggle & Roboflow data |
 
-## 🛠️ Tech Stack
+### Skills
 
-### 🔧 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+`Python` · `TypeScript` · `Next.js` · `LLMs` · `RAG` · `Multimodal AI` · `scikit-learn` · `Computer Vision` · `Evaluation`
 
-### 🗃️ Databases & ORMs
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+### Stats
 
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### 🛠️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### 🔌 Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-161B22?style=flat&logo=cursor&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
----
-
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|------------|------|
-| [👁️ Iris](https://github.com/jahidbappi/iris) | Real-time multimodal AI studio — Demo + **Ollama** local OSS (`llama3.1:8b`, LLaVA) | Next.js, Ollama, Web Speech API | [Live](https://iris-puce.vercel.app) |
-| [🧩 Mosaic](https://github.com/jahidbappi/mosaic-rag) | RAG eval harness — **SciFact hybrid MRR 76.7%** vs BM25 73.5% (MiniLM, n=50) | Python, BGE/MiniLM, MS MARCO xenc | [Benchmarks](https://mosaic-rag.vercel.app/benchmarks) |
-| [🌐 Portfolio](https://github.com/jahidbappi/portfolio) | Personal portfolio with live GitHub integration | HTML, CSS, JavaScript | [Live](https://jahidbappi.vercel.app) |
-| [🚀 VibeFlow](https://github.com/jahidbappi/VibeFlow) | Modern software selling platform | React, Node.js | [Live](https://vibe-flow.vercel.app) |
-| [🤖 code-reviewer-ai](https://github.com/jahidbappi/code-reviewer-ai) | AI-powered instant code review tool | TypeScript, AI | [Code](https://github.com/jahidbappi/code-reviewer-ai) |
-| [🎓 Web Technologies Project](https://github.com/jahidbappi/Web-Technologies-Project_Group-08) | Final term full-stack web project | PHP, JavaScript | [Code](https://github.com/jahidbappi/Web-Technologies-Project_Group-08) |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| Certification | Provider | Year | Credential |
-|--------------|----------|------|------------|
-| **Master ChatGPT: Transform Your Life With AI Chatbots** | Dhruv Rathee Academy | 2025 | [🔗 View](https://academy.dhruvrathee.com/chatgpt) |
-| **AWS Certified Developer** | Amazon Web Services | 2024 | [🔗 View](#) |
-| **100 Days of Code: The Complete Python Pro Bootcamp** | Udemy | 2024 | [🔗 View](https://www.udemy.com/course/100-days-of-code/) |
-| **CS50: Introduction to Computer Science** | Harvard University | 2023 | [🔗 View](https://pll.harvard.edu/course/cs50-introduction-computer-science) |
-| **Terence Tao Teaches Mathematical Thinking** | MasterClass | 2022 | [🔗 View](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking) |
-
-</div>
-
----
-
-## ✍️ Latest Blog Posts
-
-- 🧠 **[We Live by Stories, Not Truth — And That Changes Everything](https://medium.com/@jahidcric2000/we-live-by-stories-not-truth-and-that-changes-everything-1071b3888bf9)**  
-  *Reflections on stories, power, AI, and what it means to see reality clearly*
-
-- 🌍 **[Cruel world](https://medium.com/@jahidcric2000/cruel-world-64ff001b80f7)**  
-  *The planet Earth is incredible.*
-
----
-
-## 📄 Research Papers
-
-<div align="center">
-
-| Title | Conference/Journal | Year | Link |
-|--------|-------------------|------|------|
-| **A Study on XYZ Algorithms** | IEEE International Conference on ABC | 2025 | [View Paper](https://example.com/xyz-paper) |
-| **Machine Learning for IoT Devices** | Springer Journal of IoT Research | 2024 | [View Paper](https://example.com/ml-iot-paper) |
-
-</div>
-
----
-
-## 🎯 Currently Focusing On
-
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/Learning-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/Certifying-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microservices](https://img.shields.io/badge/Exploring-Microservices-1890FF?style=for-the-badge)
-
-</div>
-
----
-
-## 💬 Let's Collaborate!
-
-<p align="center">
-  I'm always open to interesting projects and collaborations. Let's create something amazing together!
-</p>
-
-<div align="center">
-  <a href="mailto:jahidcric2000@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
----
-
-> "First, solve the problem. Then, write the code." — John Johnson
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahidbappi&show_icons=true&theme=tokyonight)
