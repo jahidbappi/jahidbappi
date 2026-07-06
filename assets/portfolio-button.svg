@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="44" viewBox="0 0 220 44" fill="none" role="img" aria-label="View Portfolio">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="220" y2="44" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="50%" stop-color="#5B21B6"/>
-      <stop offset="100%" stop-color="#4C1D95"/>
+      <stop offset="0%" stop-color="#FCE7F3"/>
+      <stop offset="50%" stop-color="#FBCFE8"/>
+      <stop offset="100%" stop-color="#F9A8D4"/>
     </linearGradient>
     <linearGradient id="shine" x1="0" y1="0" x2="0" y2="44" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.55"/>
       <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
     <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
@@ -17,20 +17,14 @@
       </feMerge>
     </filter>
   </defs>
-  <!-- soft glow -->
-  <rect x="4" y="6" width="212" height="32" rx="16" fill="#7C3AED" opacity="0.35" filter="url(#glow)"/>
-  <!-- main pill -->
+  <rect x="4" y="6" width="212" height="32" rx="16" fill="#F9A8D4" opacity="0.45" filter="url(#glow)"/>
   <rect x="2" y="4" width="216" height="36" rx="18" fill="url(#bg)"/>
   <rect x="2" y="4" width="216" height="36" rx="18" fill="url(#shine)"/>
-  <!-- border -->
-  <rect x="2.5" y="4.5" width="215" height="35" rx="17.5" stroke="#A78BFA" stroke-opacity="0.45" stroke-width="1" fill="none"/>
-  <!-- globe icon -->
-  <g transform="translate(18, 12)" stroke="#FFFFFF" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="2.5" y="4.5" width="215" height="35" rx="17.5" stroke="#F472B6" stroke-opacity="0.55" stroke-width="1" fill="none"/>
+  <g transform="translate(18, 12)" stroke="#9D174D" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="10" cy="10" r="8"/>
     <path d="M2 10h16M10 2a12 12 0 0 1 0 16M10 2a12 12 0 0 0 0 16"/>
   </g>
-  <!-- label -->
-  <text x="46" y="27" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" letter-spacing="0.3">Portfolio</text>
-  <!-- arrow -->
-  <path d="M188 22h14M196 16l6 6-6 6" stroke="#E9D5FF" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="46" y="27" fill="#831843" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" letter-spacing="0.3">Portfolio</text>
+  <path d="M188 22h14M196 16l6 6-6 6" stroke="#BE185D" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
 </svg>
