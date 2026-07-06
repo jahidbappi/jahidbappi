@@ -25,6 +25,6 @@
     <circle cx="10" cy="10" r="8"/>
     <path d="M2 10h16M10 2a12 12 0 0 1 0 16M10 2a12 12 0 0 0 0 16"/>
   </g>
-  <text x="46" y="27" fill="#881337" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" letter-spacing="0.3">Portfolio</text>
-  <path d="M128 22h10M134 16l6 6-6 6" stroke="#BE123C" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="44" y="27" fill="#881337" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" letter-spacing="0.3">Portfolio</text>
+  <path d="M124 22h10M130 16l6 6-6 6" stroke="#BE123C" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
 </svg>
