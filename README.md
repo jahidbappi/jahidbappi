@@ -79,6 +79,26 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Jahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jahidbappi&theme=react&hide_border=true&bg_color=00000000&color=6366F1&line=4F46E5&point=818CF8&area=true&area_color=6366F1)](https://github.com/jahidbappi)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahidbappi/jahidbappi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahidbappi/jahidbappi/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jahidbappi/jahidbappi/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📜 Certifications
 
 <div align="center">
