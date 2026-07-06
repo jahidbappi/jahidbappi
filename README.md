@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://jahidbappi.vercel.app">
     <img
-      src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="View my portfolio"
       height="32"
     />
