@@ -70,6 +70,7 @@
 |---------|-------------|------------|------|
 | [👁️ Iris](https://github.com/jahidbappi/iris) | Real-time multimodal AI studio — Demo + **Ollama** local OSS (`llama3.1:8b`, LLaVA) | Next.js, Ollama, Web Speech API | [Live](https://iris-puce.vercel.app) |
 | [🧩 Mosaic](https://github.com/jahidbappi/mosaic-rag) | RAG eval harness — **SciFact hybrid MRR 76.7%** vs BM25 73.5% (MiniLM, n=50) | Python, BGE/MiniLM, MS MARCO xenc | [Benchmarks](https://mosaic-rag.vercel.app/benchmarks) |
+| [🔥 Kiln](https://github.com/jahidbappi/kiln-ml) | ML/CV benchmark platform — forge every algorithm on real data (sklearn, Keras, YOLO) | Python, scikit-learn, Keras, YOLO | [Live](https://kiln-ml.vercel.app) |
 | [🌐 Portfolio](https://github.com/jahidbappi/portfolio) | Personal portfolio with live GitHub integration | HTML, CSS, JavaScript | [Live](https://jahidbappi.vercel.app) |
 | [🚀 VibeFlow](https://github.com/jahidbappi/VibeFlow) | Modern software selling platform | React, Node.js | [Live](https://vibe-flow.vercel.app) |
 | [🤖 code-reviewer-ai](https://github.com/jahidbappi/code-reviewer-ai) | AI-powered instant code review tool | TypeScript, AI | [Code](https://github.com/jahidbappi/code-reviewer-ai) |
