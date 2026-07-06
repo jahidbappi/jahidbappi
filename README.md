@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://jahidbappi.vercel.app">
     <img
-      src="https://raw.githubusercontent.com/jahidbappi/jahidbappi/main/assets/portfolio-button.svg"
+      src="https://raw.githubusercontent.com/jahidbappi/jahidbappi/main/assets/portfolio-button-pink.svg"
       alt="View my portfolio"
       height="44"
     />
