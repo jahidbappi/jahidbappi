@@ -4,9 +4,9 @@
 <p align="center">
   <a href="https://jahidbappi.vercel.app">
     <img
-      src="https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://raw.githubusercontent.com/jahidbappi/jahidbappi/main/assets/portfolio-button.svg"
       alt="View my portfolio"
-      height="32"
+      height="44"
     />
   </a>
 </p>
