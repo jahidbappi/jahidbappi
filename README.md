@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jahid Bappi 👋</h1>
-<h3 align="center">AI Engineer | Full Stack Software Developer | Database Specialist</h3>
+<h3 align="center">Full Stack Software Developer</h3>
 
 <p align="center">
   <a href="https://jahidbappi.vercel.app">
@@ -115,39 +115,9 @@
 | Certification | Provider | Year | Credential |
 |--------------|----------|------|------------|
 | **Master ChatGPT: Transform Your Life With AI Chatbots** | Dhruv Rathee Academy | 2025 | [🔗 View](https://academy.dhruvrathee.com/chatgpt) |
-| **AWS Certified Developer** | Amazon Web Services | 2024 | [🔗 View](#) |
 | **100 Days of Code: The Complete Python Pro Bootcamp** | Udemy | 2024 | [🔗 View](https://www.udemy.com/course/100-days-of-code/) |
 | **CS50: Introduction to Computer Science** | Harvard University | 2023 | [🔗 View](https://pll.harvard.edu/course/cs50-introduction-computer-science) |
 | **Terence Tao Teaches Mathematical Thinking** | MasterClass | 2022 | [🔗 View](https://www.masterclass.com/classes/terence-tao-teaches-mathematical-thinking) |
-
-</div>
-
----
-
-## ✍️ Latest Blog Posts
-
-- 📝 **[Building Scalable Database Systems](https://medium.com/@jahidbappi/database-design-patterns)**  
-  *Architecture patterns for high-performance databases*  
-  ![Views](https://img.shields.io/badge/Views-1.2k-blue)
-
-- 🔍 **[C# Best Practices for Beginners](https://medium.com/@jahidbappi/csharp-tips)**  
-  *Lessons from building production applications*  
-  ![Views](https://img.shields.io/badge/Views-850-blue)
-
-- 🤖 **[Getting Started with PyTorch](https://medium.com/@jahidbappi/pytorch-guide)**  
-  *Practical deep learning tutorial*  
-  ![Views](https://img.shields.io/badge/Views-1.5k-blue)
-
----
-
-## 📄 Research Papers
-
-<div align="center">
-
-| Title | Conference/Journal | Year | Link |
-|--------|-------------------|------|------|
-| **A Study on XYZ Algorithms** | IEEE International Conference on ABC | 2025 | [View Paper](https://example.com/xyz-paper) |
-| **Machine Learning for IoT Devices** | Springer Journal of IoT Research | 2024 | [View Paper](https://example.com/ml-iot-paper) |
 
 </div>
 
